@@ -30,6 +30,24 @@ symbols:
 {} - curly bracket
 [] - angular bracket
 () - parantasis
+.  - decoration
+?  -question mark
+: - colom
+; - semi colom
+, - comma
+= - assingement
++ - plus
+- - minus
+* -multiplication
+/ - forward slash
+% - percentage
+**-  doubleasterisk
+=> - arrow
+....- rest/spread
+&&-  logical
+??- nulish collescing
+! - exclamation
+
 ------------------------------
 
 concepts:
